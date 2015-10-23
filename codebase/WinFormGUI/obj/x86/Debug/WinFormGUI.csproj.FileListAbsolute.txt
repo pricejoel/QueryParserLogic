@@ -1,0 +1,10 @@
+F:\git\QueryParser\codebase\WinFormGUI\bin\Debug\WinFormGUI.exe
+F:\git\QueryParser\codebase\WinFormGUI\bin\Debug\WinFormGUI.pdb
+F:\git\QueryParser\codebase\WinFormGUI\bin\Debug\QueryParserLogic.dll
+F:\git\QueryParser\codebase\WinFormGUI\bin\Debug\QueryParserLogic.pdb
+F:\git\QueryParser\codebase\WinFormGUI\obj\x86\Debug\WinFormGUI.csprojResolveAssemblyReference.cache
+F:\git\QueryParser\codebase\WinFormGUI\obj\x86\Debug\WinFormGUI.Form1.resources
+F:\git\QueryParser\codebase\WinFormGUI\obj\x86\Debug\WinFormGUI.Properties.Resources.resources
+F:\git\QueryParser\codebase\WinFormGUI\obj\x86\Debug\WinFormGUI.csproj.GenerateResource.Cache
+F:\git\QueryParser\codebase\WinFormGUI\obj\x86\Debug\WinFormGUI.exe
+F:\git\QueryParser\codebase\WinFormGUI\obj\x86\Debug\WinFormGUI.pdb

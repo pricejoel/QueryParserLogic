@@ -1,0 +1,4 @@
+F:\git\QueryParser\codebase\QueryParserLogic\bin\Debug\QueryParserLogic.dll
+F:\git\QueryParser\codebase\QueryParserLogic\bin\Debug\QueryParserLogic.pdb
+F:\git\QueryParser\codebase\QueryParserLogic\obj\Debug\QueryParserLogic.dll
+F:\git\QueryParser\codebase\QueryParserLogic\obj\Debug\QueryParserLogic.pdb
